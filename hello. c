@@ -1,1 +1,6 @@
-this is c programme file
+//this is c programme file
+#include<stdio.h>
+main()
+{
+printf("hello");
+}
